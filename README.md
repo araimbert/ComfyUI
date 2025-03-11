@@ -1,6 +1,6 @@
 <div align="center">
 
-# ComfyUI
+# ComfyUI - v0.3.26-custom
 **The most powerful and modular visual AI engine and application.**
 
 
